@@ -133,3 +133,22 @@ Summary:
 
 
 This investigation identified and contained automated reconnaissance activity without business impact. The case demonstrates effective use of Defender Advanced Hunting, KQL-based analysis, evidence-driven assessment, and appropriate SOC response actions. The activity was contained without business impact.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
