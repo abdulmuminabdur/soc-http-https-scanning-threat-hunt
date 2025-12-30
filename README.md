@@ -1,0 +1,2 @@
+# soc-http-https-scanning-threat-hunt
+SOC threat hunting investigation identifying sustained HTTP/HTTPS scanning activity using Microsoft Defender for Endpoint and KQL.
