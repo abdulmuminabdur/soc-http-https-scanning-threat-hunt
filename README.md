@@ -1,6 +1,7 @@
-# soc-http-https-scanning-threat-hunt
+# SOC Threat Hunting: HTTP/HTTPS Scanning Investigation
 
-SOC threat hunting investigation identifying sustained HTTP/HTTPS scanning activity using Microsoft Defender for Endpoint and KQL.
+SOC threat-hunting investigation identifying sustained HTTP/HTTPS scanning activity using Microsoft Defender for Endpoint and KQL.
+
 
 ## Overview
 This project documents a proactive threat-hunting investigation conducted in Microsoft Defender for Endpoint to identify anomalous internal network activity. The investigation focused on repeated failed network connections indicative of automated reconnaissance behavior. The objective of this hunt was to determine whether the observed behavior represented benign misconfiguration or malicious reconnaissance requiring containment.
